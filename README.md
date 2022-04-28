@@ -1,4 +1,4 @@
-# UnSupervisedLearning
+# UnSupervised Learning
 
 Exploring 
   * k-means and its variants
